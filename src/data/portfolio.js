@@ -1,7 +1,7 @@
 export default [
     {
         title: "Codeguesser",
-        imgUrl: "",
+        imgUrl: "/assets/codeguesser_preview.png",
         stack: ["Python"],
         link: "augustrm.me",
     },
