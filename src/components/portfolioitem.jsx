@@ -8,7 +8,7 @@ function PortfolioItem({title, imgUrl, stack, link}) {
         className="w=full h-36 md:h-48 object-cover cursor-pointer"
         />
         <div>className="w-full p-4"
-            <h3>{title}</h3>
+            <h3 className="text-lg md:text-xl mb-2 md:mb-3 font-semibold">{title}</h3>
             <p>{stack.map(item =>
                 <span>
                     {item}
