@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/0a89f7e1-4aba-4883-ba8f-cf36ecf3dad9/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/august-website-portfolio",
+    "appService.deploySubpath": "."
+}
