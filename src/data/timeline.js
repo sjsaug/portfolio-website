@@ -15,13 +15,13 @@ export default [
         year : "2022",
         title : "Python and The CCC",
         duration : "1 year",
-        details : "In grade 12, it was our first year back in person. I learnt Python and I competed in the Canadian Computing Competition (CCC)."
+        details : "Grade 12 was my school's first year back in person. I learned Python and I competed in the Canadian Computing Competition (CCC)."
     },
     {
         year : "2021",
         title : "My First Project",
         duration : "1 year",
-        details : "My first real coding project was when I was tasked with making a trainer for a FiveM server owner. For this task, I needed to use C++ and learn how to edit game memory. I learned useful concepts like injecting a .dll file into a process, how to read and write to memory as well as (some) Assembly!."
+        details : "My first real coding project was when I was tasked with making a trainer for a FiveM server owner. For this task, I needed to use C++ and learn how to edit game memory. I learned useful concepts like injecting a .dll file into a process, how to read and write to memory as well as (some) Assembly!"
     },
     {
         year : "2020",
@@ -39,6 +39,6 @@ export default [
         year : "2017",
         title : "High School Student",
         duration : "6 years",
-        details : "2017 was the year I started high school. Throughout high school I met some of my best friends and I learnt many important lessons both academically and personally."
+        details : "2017 was the year I started high school. Throughout high school I met some of my best friends and I learned many important lessons both academically and personally."
     },
 ]
