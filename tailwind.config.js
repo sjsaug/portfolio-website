@@ -4,7 +4,8 @@ export default {
   darkMode: "class",
   theme: {
     extend: {
-      fontFamily: {["inter", "serif"],}
+      fontFamily: {
+        inter : ["inter", "serif"],}
     },
   },
   plugins: [],
