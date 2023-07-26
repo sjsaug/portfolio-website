@@ -10,7 +10,10 @@ function Contact() {
                 className="flex flex-col w-full md:w-7/12"
                 >
                     <Title>Contact</Title>
-                    <input type="hidden" name="_gotcha" style="display:none !important"/> {/*For protection against spam bots*/}
+                    <input
+                        type="hidden" 
+                        name="_gotcha" 
+                    /> {/*For protection against spam bots*/}
                     <input
                         type="text"
                         name="name"
