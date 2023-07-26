@@ -5,11 +5,12 @@ function Contact() {
     return (
         <div className="flex flex-col mb-10 mx-auto">
             <div className="flex justify-center">
-                <form action={import.meta.env.VITE_CONTACT_ENDP}
+                <form action="https://getform.io/f/b60b0f35-57e5-4f5f-8b2f-9e4c12576ea8"
                 method="POST"
                 className="flex flex-col w-full md:w-7/12"
                 >
                     <Title>Contact</Title>
+                    <input type="hidden" name="_gotcha" style="display:none !important"/> {/*For protection against spam bots*/}
                     <input
                         type="text"
                         name="name"
@@ -29,7 +30,7 @@ function Contact() {
                         rows={10}
                         className="p-2 mb-4 bg-transparent border-2 rounded-md focus:outline-none"
                     />
-                    <button type="button"
+                    <button type="submit"
                     class="bg-gradient-to-r from-blue-500 to-gray-500 hover:bg-sky-500 drop-shadow-md text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white "
                     >
                         Work With Me
