@@ -45,7 +45,7 @@ function Footer() {
 						</div>
 					</div>
 				</div>
-			<p className="text-sm mt-2  opacity-50">
+			<p className="text-sm mt-2  opacity-50 dark:opacity-75">
 				&copy; {new Date().getFullYear()} August R.M <br/> Made with React, Tailwind CSS and Vite
 			</p>
 		</div>
