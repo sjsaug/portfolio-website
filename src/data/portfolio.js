@@ -3,13 +3,13 @@ export default [
         title: "Codeguesser",
         imgUrl: "/assets/codeguesser_preview.png",
         stack: ["Python"],
-        link: "augustrm.me",
+        link: "github.com/sjsaug/codeguesser",
     },
     {
         title: "Developer Portfolio",
         imgUrl: "",
         stack: ["React", "Tailwind", "Vite"],
-        link: "github.com/sjsaug/codeguesser",
+        link: "augustrm.me",
     },
     {
         title: "N/A",

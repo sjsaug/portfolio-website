@@ -15,7 +15,7 @@ function Portfolio() {
                     />
                 ))}
             </div>
-            </div>
+        </div>
     )
 }
 
