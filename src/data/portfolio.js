@@ -9,7 +9,7 @@ export default [
         title: "Developer Portfolio",
         imgUrl: "/assets/dev_portfolio_preview.png",
         stack: ["React", "Tailwind", "Vite"],
-        link: "https://augustrm.me",
+        link: "https://github.com/sjsaug/portfolio-website",
     },
     {
         title: "GPT-TTS Chatbot",
