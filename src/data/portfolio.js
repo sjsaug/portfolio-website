@@ -6,10 +6,10 @@ export default [
         link: "https://github.com/sjsaug/codeguesser",
     },
     {
-        title: "Developer Portfolio",
-        imgUrl: "/assets/dev_portfolio_preview.png",
-        stack: ["React", "Tailwind", "Vite"],
-        link: "https://github.com/sjsaug/portfolio-website",
+        title: "GorillaType",
+        imgUrl: "/assets/gorillatype_preview.png",
+        stack: ["JavaScript", "HTML", "CSS"],
+        link: "https://github.com/sjsaug/GorillaType",
     },
     {
         title: "GPT-TTS Chatbot",
