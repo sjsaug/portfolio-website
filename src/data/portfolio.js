@@ -12,9 +12,9 @@ export default [
         link: "https://github.com/sjsaug/GorillaType",
     },
     {
-        title: "GPT-TTS Chatbot",
-        imgUrl: "/assets/gpt_tts_chatbot_preview.png",
-        stack: ["Python", "OpenAI API"],
-        link: "https://github.com/sjsaug/openai_ttsbot",
+        title: "Money Tracker",
+        imgUrl: "/assets/money-tracker_preview.png",
+        stack: ["MongoDB", "Express", "React", "Node"],
+        link: "https://github.com/sjsaug/money-tracker",
     },
 ]
