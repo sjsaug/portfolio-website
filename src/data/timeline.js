@@ -8,7 +8,7 @@ export default [
     {
         year : "2023",
         title : "Graduation",
-        duration : "N/A",
+        duration : "6 years",
         details : "I earned my high school diploma and now I am certified bilingual! (I speak both French and English fluently)"
     },
     {
