@@ -3,7 +3,7 @@ export default [
         year : "Today",
         title : "First Hackathon",
         duration : "26 Hours",
-        details : "I recently attended my first hackathon. My team and I created an educational game in Python that utilizes advanced AI models to generate informative quizzes and then publishes results to a web app. We won, receiving the Best Use of Streamlit award! I developed the AI and web app, but without the rest of my team members, the project wouldn't have been possible."
+        details : "I recently attended my first hackathon - The Golden Hack 5.0. My team and I created an educational game in Python called Hygiene Hero. It utilizes advanced AI models to generate informative quizzes and then publishes the users results to a web app. We won, receiving the Best Use of Streamlit award! I developed the AI and web app, but without the rest of my team members, the project wouldn't have been possible."
     },
     {
         year : "September 2023",
