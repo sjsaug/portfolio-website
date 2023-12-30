@@ -1,15 +1,15 @@
 export default [
     {
-        year : "Today",
-        title : "First Hackathon",
-        duration : "26 Hours",
-        details : "I recently attended my first hackathon - The Golden Hack 5.0. My team and I created an educational game in Python called Hygiene Hero. It utilizes advanced AI models to generate informative quizzes and then publishes the users results to a web app. We won, receiving the Best Use of Streamlit award! I developed the AI and web app, but without the rest of my team members, the project wouldn't have been possible."
+        year : "Present",
+        title : "University Student",
+        duration : "Today",
+        details : "I am currently studying Computer Science in Waterloo, Ontario. This year, I'm trying to expand my knowledge of programming languages and frameworks, which is why I'm learning languages like React, Java and even Mojo!"
     },
     {
-        year : "September 2023",
-        title : "University Student",
-        duration : "Just Started",
-        details : "I am currently studying Computer Science in Waterloo, Ontario. This year, I'm trying to expand my knowledge of programming languages and frameworks, which is why I'm learning languages like React, Java and even Mojo!"
+        year : "October 2023",
+        title : "First Hackathon",
+        duration : "26 Hours",
+        details : "I recently attended my first hackathon - The Golden Hack 5.0. My team and I created an educational game in Python called Hygiene Hero. It utilizes advanced AI models to generate informative quizzes and then publishes the users results to a web app. We won, receiving the Best Use of Streamlit award! I developed the AI and web app (Streamlit part), but without the rest of my team members, the project wouldn't have been possible."
     },
     {
         year : "2023",
